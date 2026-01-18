@@ -4,6 +4,8 @@ Building Pipeline:
 3> Add data, models, reports directories to .gitignore file
 4> Now git add, commit, push
 
+## Do Yaml crash course -- https://github.com/vikashishere/YAML-Crash-Course
+
 Setting up dcv pipeline (without params)
 5> Create dvc.yaml file and add stages to it.
 6> dvc init then do "dvc repro" to test the pipeline automation. (check dvc dag)
